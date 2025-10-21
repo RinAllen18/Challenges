@@ -16,6 +16,7 @@ The elevator also has the ability to shutdown given a special key
 ## Optional Enhancements
 - Allow for simulated internal requests.
 - Allow for multiple external requests during elevator movement.
+- Simulate time passing while the elevator is moving.
 
 ## Example Output:
 ```
