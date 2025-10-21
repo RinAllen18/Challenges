@@ -11,7 +11,7 @@ The elevator also has the ability to shutdown given a special key
 - Building has 14 floors (1–14).
 - One elevator.
 - User input is expected to be valid integers.
-- user knows that the special code for inserting the key for shutdown is -1.
+- user knows that special code for shut down is inserting the key, and that the key is -1.
 
 ## Optional Enhancements
 - Allow for simulated internal requests.
