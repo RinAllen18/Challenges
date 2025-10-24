@@ -1,5 +1,5 @@
 This project simulates an elevator system that handles one user and one simulated external floor request per iteration. 
-The elevator also has the ability to shutdown given a special key
+The elevator also has the ability to shutdown given a special key.
 
 ## Features
 - Main user selects destination floor.
@@ -17,7 +17,7 @@ The elevator also has the ability to shutdown given a special key
 - Allow for simulated internal requests.
 - Allow for multiple external requests during elevator movement.
 - Simulate time passing while the elevator is moving.
-- Graphical user interface
+- Graphical user interface.
 
 ## Example Output:
 ```
