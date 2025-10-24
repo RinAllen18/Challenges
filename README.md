@@ -3,7 +3,7 @@ The elevator also has the ability to shutdown given a special key
 
 ## Features
 - Main user selects destination floor.
-- Simulated secondary user requests the elevator.
+- Simulated secondary user requests to the elevator.
 - Elevator picks up secondary passenger on the way and prioritizes main user's floor selection.
 - Elevator shutdown mode for maintenance.
 
