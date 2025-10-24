@@ -54,7 +54,6 @@ Shutting down...
 ```
 ## 🧑‍💻 Author
 **Corinne Allen**  
-📧 [allen.e.corinne@gmail.com](mailto:allen.e.corinne@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ceallen/)  
 🐙 [GitHub](https://github.com/RinAllen18)
 
